@@ -1,0 +1,12 @@
+{
+  "name": "@hiudyy/bannergen",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "sharp": "latest"
+  }
+}
